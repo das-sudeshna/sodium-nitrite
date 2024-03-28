@@ -1,4 +1,4 @@
-# Emerging Trends in Self-Harm: Sodium Nitrite and an Online Suicide Community
+# Emerging Trends of Self-Harm Using Sodium Nitrite in an Online Suicide Community: An Observational Study Using Natural Language Processing Analysis
 
 ## 📚 Background
 There is growing concern around the use of sodium nitrite (SN) as an emerging means of suicide, particularly among younger people. Given limited information on the topic from traditional public health surveillance sources, we studied posts made to a suicide discussion online forum, ‘Sanctioned Suicide’, a primary source of information on use and procurement of SN.
