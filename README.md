@@ -16,7 +16,7 @@ Posts pertaining to SN show a rise in popularity and statistically significant c
 Vital information about SN and other emerging mechanisms of suicide can be obtained from online forums.
 
 ## 📑 Citation
-Read the paper here: https://mental.jmir.org/2024/1/e53730/
+Read the paper here: <a href="https://mental.jmir.org/2024/1/e53730/" target="_blank">https://mental.jmir.org/2024/1/e53730/</a>
 ```bibtex
 @Article{info:doi/10.2196/53730,
 author="Das, Sudeshna
