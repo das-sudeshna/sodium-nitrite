@@ -15,9 +15,29 @@ Posts pertaining to SN show a rise in popularity and statistically significant c
 ## 📌Conclusions
 Vital information about SN and other emerging mechanisms of suicide can be obtained from online forums.
 
-
 ## 📑 Citation
-
-Please consider citing 📑 our paper if our repository is helpful to your work.
-
-_Das S, Walker D, Rajwal S, Lakamana S, Sumner SA, Mack KA, Kaczkowski W, Sarker A "Emerging Trends in Self-Harm: Sodium Nitrite and an Online Suicide Community", JMIR Mental Health. 12/03/2024:53730 (forthcoming/in press). DOI: [10.2196/53730](https://doi.org/10.2196/53730)_
+Read the paper here: https://mental.jmir.org/2024/1/e53730/
+```bibtex
+@Article{info:doi/10.2196/53730,
+author="Das, Sudeshna
+and Walker, Drew
+and Rajwal, Swati
+and Lakamana, Sahithi
+and Sumner, Steven A
+and Mack, Karin A
+and Kaczkowski, Wojciech
+and Sarker, Abeed",
+title="Emerging Trends of Self-Harm Using Sodium Nitrite in an Online Suicide Community: Observational Study Using Natural Language Processing Analysis",
+journal="JMIR Ment Health",
+year="2024",
+month="May",
+day="2",
+volume="11",
+pages="e53730",
+keywords="online suicide community; suicide; sodium nitrite; sodium nitrite sources; mental health; adolescent; juvenile; self harm; Sanctioned Suicide; online forum; US; public health; surveillance; data mining; natural language processing; machine learning; usage; suicidal; accuracy; consumption; information; United States",
+issn="2368-7959",
+doi="10.2196/53730",
+url="https://mental.jmir.org/2024/1/e53730",
+url="https://doi.org/10.2196/53730"
+}
+```
